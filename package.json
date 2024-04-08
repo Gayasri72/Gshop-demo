@@ -1,0 +1,15 @@
+{
+  "name": "gshop",
+  "version": "1.0.0",
+  "description": "e-commerce web application",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "gayasri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
