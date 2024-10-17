@@ -21,13 +21,13 @@ const Header = () => {
               <LinkContainer to='/cart'>
               <Nav.Link >
                 <FaShoppingCart />
-                Cart
+                <> </>Cart
               </Nav.Link>
               </LinkContainer>
               <LinkContainer to="/login">
               <Nav.Link>
                 <FaUser />
-                Sign In
+                <> </>Sign In
               </Nav.Link>
               </LinkContainer>
             </Nav>
